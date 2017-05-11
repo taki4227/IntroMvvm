@@ -4,4 +4,4 @@
 * Java7
 
 ## 対象環境
-* iOS : 7.1.1
+* Android OS : 7.1.1
