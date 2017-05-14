@@ -108,7 +108,7 @@ public class MvcActivity extends AppCompatActivity {
 
             String inputText = inputTextView.getText().toString();
 
-            if(TextUtils.isEmpty(inputText)) {
+            if (TextUtils.isEmpty(inputText)) {
                 // 未入力エラー
                 AlertDialog errorDialog = createErrorDialog();
                 errorDialog.show();
