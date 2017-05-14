@@ -61,6 +61,7 @@ public class MvcActivity extends AppCompatActivity {
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
+        // 画面がタッチされたら、キーボードを閉じる
         closeKeyboard();
 
         return false;

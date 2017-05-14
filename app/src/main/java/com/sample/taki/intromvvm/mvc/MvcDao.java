@@ -9,7 +9,7 @@ import com.sample.taki.intromvvm.common.PreferenceConst;
  * Created by takimoto on 2017/05/14.
  */
 
-public class MvcDao {
+class MvcDao {
 
     private Context mContext;
 
