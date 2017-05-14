@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IntroMvvm</string>
+
+    <string name="enter_button_text">Enter</string>
+
+    <string name="error_dialog_title">入力エラー</string>
+    <string name="error_dialog_message">未入力です</string>
+    <string name="error_dialog_positive_button_text">OK</string>
 </resources>
