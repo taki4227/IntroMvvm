@@ -8,7 +8,7 @@ import org.greenrobot.eventbus.EventBus;
 
 
 /**
- * Created by takimoto on 2017/05/14.
+ * Created by taki 2017/05/14.
  */
 
 public class MvvmViewModel {

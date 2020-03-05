@@ -1,7 +1,7 @@
 package com.sample.taki.intromvvm.mvvm;
 
 /**
- * Created by takimoto on 2017/05/15.
+ * Created by taki on 2017/05/15.
  */
 
 class InputErrorEvent {

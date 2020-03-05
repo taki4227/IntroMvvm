@@ -6,7 +6,7 @@ import android.content.SharedPreferences;
 import com.sample.taki.intromvvm.common.PreferenceConst;
 
 /**
- * Created by takimoto on 2017/05/14.
+ * Created by taki on 2017/05/14.
  */
 
 class MvcDao {

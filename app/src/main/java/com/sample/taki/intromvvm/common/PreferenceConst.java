@@ -1,7 +1,7 @@
 package com.sample.taki.intromvvm.common;
 
 /**
- * Created by takimoto on 2017/05/14.
+ * Created by taki on 2017/05/14.
  */
 
 public class PreferenceConst {
